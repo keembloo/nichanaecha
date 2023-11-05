@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.cashInfo{
+	text-align: center;
+	margin-top: 50px;
+}
+.textId{
+	font-size: 20px;
+}
+.textPoint{
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.textPoint span {
+	color: blue;
+}
+
+.cashInfo button {
+	width: 100px;
+	margin-top: 30px;	
+}
+
+.lineBar{
+	margin : 80px 0;
+	border-bottom: 1px solid #337CCF;
+}
+
+.btnbox{
+	margin-bottom: 50px;
+}
+
+.pagebox{
+	margin-top : 40px;
+	margin-bottom : 100px;
+	text-align: center;
+}
+.pagebox button {
+	border: none;
+	background-color: #337CCF;
+	color: white;
+	margin: 0 3px;
+	padding: 7px;
+	border-radius: 5px;
+}
+.selectpage {
+	background-color: #FFC436;
+}
+/*색상*/
+.colorblue {
+	background-color: #337CCF !important;
+	color: white !important;
+}
+.colorred {
+	background-color: #d54452 !important;
+	color: white !important;
+}
