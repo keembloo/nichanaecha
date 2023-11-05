@@ -6,7 +6,7 @@
 <br><br>
 
 #### 2. PPT :computer: <br>   
-https://www.canva.com/design/DAFw1N1IRmY/uKOcP44C3oUvHY1uIBMHcw/edit?utm_content=DAFw1N1IRmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[https://www.canva.com/design/DAFw1N1IRmY/uKOcP44C3oUvHY1uIBMHcw/edit?utm_content=DAFw1N1IRmY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFw1N1IRmY/dN7enXN7VL0C5fRxePCU6A/view?utm_content=DAFw1N1IRmY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <br><br>
 
 #### 3.주제 :mortar_board: <br>
